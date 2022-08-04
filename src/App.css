@@ -1,0 +1,95 @@
+/* body {
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+} */
+
+body {
+  margin: 50px;
+  background-color: #fffaf2;
+}
+
+#loginPai {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+#login-page {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10%;
+}
+
+.login-image {
+  width: 600px;
+}
+
+.Header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.HeaderPai {
+  background-color: #198754;
+  color: whitesmoke;
+  padding: 30px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+
+.total-field {
+  text-align: center;
+}
+
+/* .formDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+form {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  height: 40%;
+}
+
+form label{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.walletTable {
+  margin-top: 2px;
+  width: 100%;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.walletTable th{
+background-color: rgb(50, 97, 82);
+color: whitesmoke;
+}
+
+.walletTable td{
+  background-color: rgba(231, 231, 231, 0.219);
+}
+
+.travolta {
+  margin: 10px;
+  border-radius: 10px;
+  width: 30%;
+}
+
+.noFunds {
+  margin-top: 20px;
+}
