@@ -1,5 +1,7 @@
 # Boas-vindas ao repositório do projeto Trybewallet!
 
+<strong>Projeto realizando durante o curso de Desenvolvimento Web da Trybe.</strong>
+
 Para acessar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, me envie uma _[mensagem](https://portfolio-bay-omega-17.vercel.app/#contact)_ :)
 
 # Orientações
