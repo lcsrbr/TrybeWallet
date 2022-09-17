@@ -17,3 +17,4 @@ Para acessar o projeto, atente-se a cada passo descrito a seguir, e se tiver qua
   - `npm install`.
   
   # [Outros Projetos](https://portfolio-bay-omega-17.vercel.app/#projetos)
+<img src='https://portfolio-bay-omega-17.vercel.app/static/media/trybewallet.8d7d60738e1539896669.png'></img>
