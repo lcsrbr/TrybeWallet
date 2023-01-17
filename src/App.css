@@ -28,6 +28,10 @@ body {
   padding: 10%;
 }
 
+.ex {
+  color: "grey";
+}
+
 .login-image {
   width: 600px;
 }

@@ -77,6 +77,7 @@ state = {
                 onChange={ this.handleChange }
                 value={ email }
               />
+              <p className="ex">ex: mscott@dmifflin.com </p>
             </label>
             <label htmlFor="password" className="form-label">
               <span className="fs-5">Senha</span>
@@ -88,6 +89,7 @@ state = {
                 onChange={ this.handleChange }
                 value={ password }
               />
+              <p className="ex">ex: doNot1234! </p>
             </label>
             <button
               type="button"
